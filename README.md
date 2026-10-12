@@ -129,12 +129,12 @@
 ---
 
 ## 版权声明
-**© 电气与信息工程学院 Jackson Hao<br>**
+**© 电气信息工程学院 Kazuma Kobayashi<br>**
 **© 软件学院 人工智能创新实验室<br>**
 ![alt text](picture/LAB.png)
 
 如有侵权，请联系：
-Email: la_jackson_hao@petalmail.com<br>
+Email: jacksonhao81@gmail.com<br>
 
 郑州轻工业大学，中华人民共和国<br>
 
